@@ -713,7 +713,7 @@ section {
 
 .section-title p {
   margin: 0;
-  margin: 0;
+  /*   margin: 0; */
   font-size: 28px;
   font-weight: 700;
   font-family: "Playfair Display", serif;
@@ -964,26 +964,6 @@ section {
   border-radius: 50%;
   float: left;
   border: 5px solid rgba(255, 255, 255, 0.2);
-}
-
-.menu-img-footer {
-  text-align: center;
-  width: 50;
-  max-height: 50;
-  opacity: 50%;
-  float: center;
-  object-fit: contain;
-
-  /* border: 5px solid rgba(255, 255, 255, 0.2); */
-}
-.img-footer {
-  text-align: center;
-  width: 50px;
-  opacity: 50%;
-  float: center;
-  object-fit: contain;
-
-  /* border: 5px solid rgba(255, 255, 255, 0.2); */
 }
 
 .menu .menu-content {
